@@ -76,23 +76,23 @@ width: 100%;}
 }
 
 .two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
+    /*background-color: #FFB7CF;
+    border: 1px black solid;*/
     padding: 20px;}
 
 .icons {
-	background-color: #E582A2;
+	/*background-color: #E582A2;
     border: 1px black solid;
-    padding: 15px; 
+    padding: 15px; */
     float:left;
     width:40%;
     
 }
 
 .text {
-    background-color: #E55B88;
+    /*background-color: #E55B88;
     border: 1px black solid;
-    padding: 20px;
+    padding: 20px;*/
 	float: right;   
     width: 50%;}
 
@@ -107,6 +107,6 @@ width: 100%;}
 
 
 
-footer {clear: left;}
+footer {clear: center;}
 
 
