@@ -1,4 +1,22 @@
+
+
+
+
+
+
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+
+*,
+*:before,
+*:after {
+	margin:0;
+	padding:0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
 
 body { 
 	background-color: rgb(77,157,182);
@@ -9,7 +27,7 @@ body {
 	color: rgba(248,248,255,.78);
 }
 
-a href {
+a {
 	font-family: Open sans;
 	font-weight: 300;
 	font-size: 17px;
@@ -49,7 +67,8 @@ p {
 
 
 #hero {
-	padding: 60px 30px 40px 30px;}
+	padding: 60px 30px 40px 30px;
+width: 100%;}
 
 #container {
   	width: 960px;
